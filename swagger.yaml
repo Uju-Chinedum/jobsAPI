@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-- url: localhost:3000/api/v1
+- url: https://jobsapi-dn4t.onrender.com/
   variables: {}
 paths:
   /auth/register:
